@@ -1,0 +1,12 @@
+#!/bin/bash
+# This program will out put system information
+# Stage 1
+TITLE="System Information Report for Linux $HOSTNAME"
+echo "<HTML>
+          <HEAD>
+                 <TITLE>head $TITLE</TITLE>
+          </HEAD>
+          <BODY>
+                 <H1>body $TITLE</H1>
+          </BODY>
+</HTML>"
