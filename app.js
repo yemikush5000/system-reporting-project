@@ -1,0 +1,1 @@
+alert('HELLO THERE FROM MY JS SCRIPT);

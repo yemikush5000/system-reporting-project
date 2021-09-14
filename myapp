@@ -1,0 +1,4 @@
+#!/bin/bash
+#This app out a javascript to my app.js file
+echo "alert('HELLO THERE FROM MY JS SCRIPT);" 
+
