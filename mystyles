@@ -1,0 +1,9 @@
+#!/bin/bash
+# This script will output the commands to a css script file
+echo "body {
+        background-color: aquamarine;
+      }
+
+      h1 {
+        background-color: purple;
+      }"
